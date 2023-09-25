@@ -39,13 +39,9 @@
 <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/> 
 
 
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HidenLee&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidenLee&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-        [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyundo1995)](https://solved.ac/hyundo1995)
-</p>
-    
-</details>
+
+<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HidenLee&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+<br>
+<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidenLee&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+<br/>
+<img alt = "Solved.ac Profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyundo1995"/>

@@ -73,3 +73,8 @@ with an expected completion date around October 2024.
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidenLee&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 <br/>
 <img alt = "Solved.ac Profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyundo1995"/>
+
+## gitanimals
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/HidenLee?pet-id=1" width="1000" height="120"/>
+</a>

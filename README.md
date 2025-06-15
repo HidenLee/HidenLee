@@ -73,46 +73,65 @@ where we aim to deliver meaningful value to users through code.
 
 ## 🛠️ My projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-  
-  <a href="https://github.com/team-joytas/wooco-fe">
-    <img src="https://github.com/team-joytas/wooco-fe/raw/dev/docs/assets/cover.png" style="width: 100%; max-width: 400px;" />
-  </a>
-  
-  <a href="https://github.com/HidenLee/5-CKNS-final-front">
-    <img src="https://github.com/user-attachments/assets/c389a9c2-6e1c-425f-b10a-1ef4db17df05" style="width: 100%; max-width: 400px;" />
-  </a>
-  
-  <a href="https://github.com/sambonghada/chi-mung-fe">
-    <img src="https://github.com/user-attachments/assets/2858d191-4f28-4322-bb76-b1f13b47fff3" style="width: 100%; max-width: 400px;" />
-  </a>
-  
-  <a href="https://github.com/HidenLee/GomBang">
-    <img src="https://github.com/HidenLee/GomBang/raw/master/GomBang_thumbnail.png" style="width: 100%; max-width: 400px;" />
-  </a>
-  
-  <a href="https://github.com/ssafy-pangpang/airbank/">
-    <img src="https://github.com/ssafy-pangpang/airbank/raw/master/docs/thumbnail.png" style="width: 100%; max-width: 400px;" />
-  </a>
-  
-  <a href="https://github.com/Stellargram/Project_Stellargram">
-    <img src="https://github.com/Stellargram/Project_Stellargram/raw/master/exec/image/StellargramMockUp.png" style="width: 100%; max-width: 400px;" />
-  </a>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/team-joytas/wooco-fe">
+        <img src="https://github.com/team-joytas/wooco-fe/raw/dev/docs/assets/cover.png" width="400" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/HidenLee/5-CKNS-final-front">
+        <img src="https://github.com/user-attachments/assets/c389a9c2-6e1c-425f-b10a-1ef4db17df05" width="400" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/sambonghada/chi-mung-fe">
+        <img src="https://github.com/user-attachments/assets/2858d191-4f28-4322-bb76-b1f13b47fff3" width="400" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/HidenLee/GomBang">
+        <img src="https://github.com/HidenLee/GomBang/raw/master/GomBang_thumbnail.png" width="400" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ssafy-pangpang/airbank/">
+        <img src="https://github.com/ssafy-pangpang/airbank/raw/master/docs/thumbnail.png" width="400" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Stellargram/Project_Stellargram">
+        <img src="https://github.com/Stellargram/Project_Stellargram/raw/master/exec/image/StellargramMockUp.png" width="400" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📊 Statistics
 
-<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 16px;">
 
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HidenLee&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555" style="width: 100%; max-width: 300px; height: auto;" />
-  
-  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidenLee&hide=html,&hide_border=true&title_color=5391FE&text_color=555&layout=compact" style="width: 100%; max-width: 300px; height: auto;" />
-  
-  <img alt="Solved.ac Profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyundo1995" style="width: 100%; max-width: 300px; height: auto;" />
-
-  <a href="https://github.com/devxb/gitanimals" style="width: 100%; max-width: 300px; height: auto;">
-  <img src="https://render.gitanimals.org/farms/HidenLee"/>
-</a>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HidenLee&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555" style="width: 100%; max-width: 400px; height: auto;" />
+    </td>
+    <td>
+      <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidenLee&hide=html,&hide_border=true&title_color=5391FE&text_color=555&layout=compact" style="width: 100%; max-width: 400px;  height: auto;" />
+    </td>
+  </tr>
+  <tr>
+    <td>     
+      <img alt="Solved.ac Profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyundo1995" style="width: 100%; max-width: 300px; height: auto;" />
+    </td>
+    <td>
+      <a href="https://github.com/devxb/gitanimals" style="width: 100%; max-width: 200px; height: auto;">
+        <img src="https://render.gitanimals.org/farms/HidenLee"/>
+      </a>
+    </td>
+  </tr>
+</table>

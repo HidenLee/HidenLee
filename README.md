@@ -6,7 +6,7 @@ I'm a **web frontend** developer
 who thrives on learning new technologies and collaborating with teammates to promote collective growth.
 
 As Generative AI continue to evolve, 
-I believe that soft skills are becoming just as important as hard skills. 
+I believe that soft skills are becoming just as important as hard skills.  
 I strive to be a developer who generates synergy when working with others-
 always learning proactively and communicating continuously.
 <hr>

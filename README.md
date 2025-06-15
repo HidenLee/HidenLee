@@ -129,8 +129,13 @@ where we aim to deliver meaningful value to users through code.
       <img alt="Solved.ac Profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyundo1995" style="width: 100%; max-width: 300px; height: auto;" />
     </td>
     <td>
-      <a href="https://github.com/devxb/gitanimals" style="width: 100%; max-width: 200px; height: auto;">
-        <img src="https://render.gitanimals.org/farms/HidenLee"/>
+      <a href="https://www.gitanimals.org/">
+        <img
+          src="https://render.gitanimals.org/guilds/681112822797579739/draw"
+          width="600"
+          height="300"
+          alt="gitanimals"
+        />
       </a>
     </td>
   </tr>
